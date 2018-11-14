@@ -1,0 +1,3 @@
+D:/Phystech/iLab/Encyclopedia/cmake-build-debug/CMakeFiles/Encyclopedia.dir
+D:/Phystech/iLab/Encyclopedia/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Phystech/iLab/Encyclopedia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
